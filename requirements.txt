@@ -3,4 +3,3 @@ h5py
 scipy
 matplotlib
 pandas
-glob
